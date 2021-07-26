@@ -1,7 +1,16 @@
 # 실행 화면
+![4 1](https://user-images.githubusercontent.com/87646938/126977161-40ab21d0-75cf-491f-a2ff-ae16c56148d3.jpg)
+ - 초기 실행 화면
+<br>
+![4 2](https://user-images.githubusercontent.com/87646938/126977182-ed031ad4-ee96-4a9c-8564-7337745a6dbb.jpg)
+ - 화면을 드래그하여 자동차가 이동한 모습과 깃발과의 거리를 UI로 나타낸 모습
+<br>
+![4 3](https://user-images.githubusercontent.com/87646938/126977227-d6cd9e88-bd11-4c98-86fa-40dd7c6a8ef2.jpg)
+ - 자동차가 깃발을 넘어서면 "Gave Over!"가 출력되는 모습
 
-
-
+<br>
+<br>
+<br>
 
 
 # WEEK4_Unity
